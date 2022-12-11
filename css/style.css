@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: #15171e;
+    
+}
+header{
+    position: relative;
+}
+.steam img{
+    width: 150px;
+    margin-left: 80px;
+    margin-top: -10px;
+}
+nav{
+    background-color: rgba(23, 26, 33, 0.886);
+    padding: 10px;
+    display: flex;
+    align-items: baseline;
+    
+}
+nav a{
+    font-size: 30px;
+    color: white;
+}
+.panel{
+    background-color:#15171e ;
+}
+.panel button{
+    border-radius: 5px;
+}
+
+.panel img{
+    width: 100%;
+}
+
+h4,h3{
+    color: gray;
+}
+a{
+    color: #57a1ce;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+button{
+    background-color: #253549;
+    color: white;
+    border: 1px solid black;
+}
+.Panel-2{
+    margin-top: 15px;
+}
+.reseñas{
+    width: 360px;
+    height: 125px;
+    margin-top: 0px;
+    margin-left: 6px;
+    margin-right: 7px;
+    background-color: #1B2838;
+    border-radius: 4px;
+}
+.panel h1{
+    color: white;
+}
+.imagenes{
+    margin-top: 20px ;
+}
+.Share{
+    margin-top: 20px;
+}
+.col button{
+    width: 100%;   
+}
+.col{
+    margin-top: 100px;
+}
+.buy{
+    display: block; 
+    background: -webkit-linear-gradient( 150deg, rgba(226,244,255,0.3) 5%,rgba(84, 107, 115, 0.3) 95%);
+    border-radius: 5px;
+    padding: 5px 30px 5px 30px;
+    margin: 15px;
+    margin-top: 30px;
+}
+.price{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: rgb(0, 0, 0);
+    width: 230px;
+    height: 37px;
+    padding: 1px 1px 1px 1px;
+    margin-left: 70px;
+    border-radius: 3px;
+}
+.price button{
+    margin-left: 15px;
+    background-color: greenyellow;
+    margin-bottom: 4px;
+}
+.price p{
+    margin-bottom: 5px;
+}
+.buy h4{
+    margin-left: -20px;
+}
+.line{
+    background-color:#253549;
+    margin-top: 5px;
+}
+.line a{
+    color:#57a1ce;
+    text-decoration: none;
+}
+.line i{
+    font-size: 20px;
+    background-color: #1B2838;
+    color: white;
+}
+.panel-3{
+    margin-top: 10px;
+}
+.Source img{
+    margin-top: 10px;
+    width: 375px;
+}
+.contenido p{
+    color: gray;
+    padding: 13px;
+} 
+.contenido ul{
+    color: gray;
+}
+.end{
+    background-color: #172833;
+    padding: 50px;
+}
+hr{
+    margin-top: 50px;
+    border: 0; height: 0; box-shadow: 0 1px 5px 1px rgb(255, 255, 255);
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer img{
+    width: 50px;
+}
+.footer a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(181, 148, 95);
+}
+.footer i{
+    color: white;
+    font-size: 25px;
+}
+.info{
+    font-size: 10px;
+    margin-top: 20px;
+}
+.linea{
+    color: white;
+    border: white;
+    height: 0;
+    box-shadow: rgb(181, 148, 95);
+}
