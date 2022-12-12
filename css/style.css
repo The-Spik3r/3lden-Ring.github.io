@@ -125,6 +125,8 @@ button{
     margin-top: 10px;
 }
 .Source img{
+    align-items: center;
+    justify-content: center;
     margin-top: 10px;
     width: 375px;
 }
